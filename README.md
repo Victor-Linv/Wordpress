@@ -1,6 +1,6 @@
 # Wordpress
 
-1. Requisitos necesarios
+## 1. Requisitos necesarios
 Una instancia de Ubuntu Server en AWS EC2.
 Conexión SSH a dicha instancia.
 Apache instalado.
@@ -9,7 +9,7 @@ Un servidor MySQL o MariaDB accesible.
 Un nombre de dominio que apunte a la IP pública de la instancia.
 Los puertos 22, 80 y 443 abiertos en el grupo de seguridad de AWS.
 
-2. Organización de archivos
+## 2. Organización de archivos
 text
 .
 ├── README.md
